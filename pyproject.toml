@@ -6,7 +6,7 @@ authors = ["w30054319 <wangzhineng2@huawei.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = "^3.11"
 flask = "^3.0.0"
 
 
